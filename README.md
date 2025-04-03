@@ -6,7 +6,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser.
 
 ### Vercel Link
 
-The project is deployed at https://tictoe-git-main-singanaboina-chinmais-projects.vercel.app
+The project is deployed at https://tictoe-iota.vercel.app/
 
 ### Guide
 
